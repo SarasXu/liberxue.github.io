@@ -13,6 +13,14 @@ redirect_from:
 
 # Saras
 
-  一个在技术道路上不停前行的菜鸟，一个在巨人肩膀上瞎比比的逗比！
+* 风雨无阻，坦荡豁达
+* 路漫漫兮其修远兮
+* 一个在技术道路上不停前行的菜鸟，一个在巨人肩膀上瞎比比的逗比！
+
+![](https://avatars.githubusercontent.com/SarasXu)
+
+
+
+
  
 
