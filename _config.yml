@@ -1,7 +1,7 @@
 # ----------- CONFIGURABLE START -----------
 title:            "风的季节"
 description:      "这是风的季节"
-url:              "https://sarasxu.github.io/winds" # 域名
+url:              "https://sarasxu.github.io/winds/" # 域名
 signoff:          "Saras" # Your name
 facebook_appid:   #facebook_id
 google_analytics: UA-101222464-1
