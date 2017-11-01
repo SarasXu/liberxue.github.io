@@ -1,6 +1,7 @@
 ---
 layout: blog
 technology: true
+istop: true
 title:  "SpringBoot项目构建和部署"
 background: blue
 background-image: https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1844720362,2711177956&fm=27&gp=0.jpg
