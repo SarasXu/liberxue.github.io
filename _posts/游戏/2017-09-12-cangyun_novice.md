@@ -1,9 +1,8 @@
 ---
 layout: blog
-title: 苍云门派入门详解
+title: "苍云门派入门详解"
 game: true
-subtitle: '苍云新兵上路技能食用方式'
-category: game
+category: 游戏
 date: 2017-09-12 15:50:34
 background: blue
 background-image:https://sarasxu.github.io/blog/img/cangyun/title.png
