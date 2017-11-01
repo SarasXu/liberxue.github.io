@@ -8,7 +8,7 @@ facebook_appid:   #facebook_id
 google_analytics: UA-101222464-1
 share:            true 
 # 分页
-paginate: 15
+paginate: 5
 paginate_path: "liberxuepage:num"
 gems: [jekyll-paginate]
 links:
