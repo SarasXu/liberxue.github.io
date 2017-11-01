@@ -1,13 +1,14 @@
 ---
 layout: blog
-title: "苍云门派入门详解"
 game: true
+title:  "苍云新手入门技能解释"
+background: green
+background-image: https://sarasxu.github.io/blog/img/cangyun/title.png
+date:   2017-10-09 23:13:54
 category: 游戏
-date: 2017-09-12 15:50:34
-background: blue
-background-image:https://sarasxu.github.io/blog/img/cangyun/title.png
-tags: 
+tags:
 - 游戏
+- 剑三
 - 苍云
 ---
 # 苍云
