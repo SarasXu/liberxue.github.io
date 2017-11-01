@@ -1,6 +1,7 @@
 ---
 layout: blog
 technology: true
+istop: true
 title:  "定制自定义maven-archetype"
 background: red
 background-image: https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1844720362,2711177956&fm=27&gp=0.jpg
