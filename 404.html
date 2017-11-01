@@ -1,5 +1,5 @@
 ---
-permalink: /404.html
+permalink: {{ site.url }}404.html
 layout: null
 title: 404
 description: "404"
@@ -126,7 +126,7 @@ description: "404"
                 <section>
                     <div class="title404">
                         <p>Sorry,实在找不到😄 <br>要不双击ctrl来搜索吧</p>
-                    </div><a href="/" class="index404">返回首页</a>
+                    </div><a href="{{ site.url }}" class="index404">返回首页</a>
                 </section>
             </div>
         </div>
@@ -143,7 +143,7 @@ margin-top:0px;position:fixed!important;/*FF IE7*/
 position:absolute;/*IE6*/"type="text" class="form-control cb-search-content" id="cb-search-content" style="position: fixed; top: 60px" placeholder="文章标题 日期 标签" >
 </div>
 <script src="//cdn.bootcss.com/bootstrap-3-typeahead/4.0.2/bootstrap3-typeahead.js"></script>
-<script src="/search/js/cb-search.js"></script>
+<script src="{{ site.url }}/search/js/cb-search.js"></script>
 </body>
 </html>
 
