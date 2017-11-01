@@ -18,6 +18,12 @@ links:
   - name:         书籍
     url:          /book
     external:     false
+  - name:         技术
+    url:          /technology
+    external:     false
+  - name:         游戏
+    url:          /game
+    external:     false
   - name:         旅游
     url:          /road
     external:     false
