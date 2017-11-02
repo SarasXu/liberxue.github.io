@@ -3,8 +3,8 @@ layout: blog
 game: true
 title:  "苍云新手入门技能解释"
 background: green
-background-image: https://sarasxu.github.io/blog/img/cangyun/title.png
-date:   2017-07-09 23:13:54
+background-image: https://sarasxu.github.io/winds/images/icon/cangyun.png
+date:   2017-07-09 20:13:54
 category: 游戏
 tags:
 - 游戏

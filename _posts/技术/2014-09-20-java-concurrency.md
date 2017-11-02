@@ -3,8 +3,8 @@ layout: blog
 technology: true
 title:  "Java 中的并发"
 background: blue
-background-image: https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1844720362,2711177956&fm=27&gp=0.jpg
-date:   2017-10-09 23:13:54
+background-image: https://sarasxu.github.io/winds/images/icon/java1.jpeg
+date:   2014-09-20 23:13:54
 category: 技术
 tags:
 - java

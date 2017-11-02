@@ -4,8 +4,8 @@ technology: true
 istop: true
 title:  "定制自定义maven-archetype"
 background: red
-background-image: https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1844720362,2711177956&fm=27&gp=0.jpg
-date:   2017-09-05 15:43:54
+background-image: https://sarasxu.github.io/winds/images/icon/maven.jpeg
+date:   2017-06-28 14:23:14
 category: 技术
 tags:
 - java

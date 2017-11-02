@@ -3,7 +3,7 @@ layout: blog
 technology: true
 title:  "Spring声明式事务配置（转）"
 background: red
-background-image: https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1844720362,2711177956&fm=27&gp=0.jpg
+background-image: https://sarasxu.github.io/winds/images/icon/spring1.jpeg
 date:   2017-03-09 16:13:54
 category: 技术
 tags:

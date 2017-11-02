@@ -4,8 +4,8 @@ technology: true
 istop: true
 title:  "SpringBoot项目构建和部署"
 background: blue
-background-image: https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1844720362,2711177956&fm=27&gp=0.jpg
-date:   2017-03-09 16:13:54
+background-image: https://sarasxu.github.io/winds/images/icon/springboot1.jpeg
+date:   2017-03-10 13:41:34
 category: 技术
 tags:
 - java
