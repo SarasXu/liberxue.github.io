@@ -8,6 +8,11 @@ author:           "Saras"
 avatar:           'https://avatars.githubusercontent.com/SarasXu'
 facebook_appid:   #facebook_id
 google_analytics: UA-101222464-1
+
+sns:
+  weibo: 'http://weibo.com/sarasxu'
+  github: 'https://github.com/SarasXu'
+
 share:            true 
 # Share
 social-share:     true
