@@ -3,7 +3,7 @@ layout: blog
 technology: true
 title:  "mysql-lock（转）"
 background: green
-background-image: https://sarasxu.github.io/winds/images/icon/mysql.jpeg
+background-image: https://sarasxu.github.io/winds/images/icon/mysql.png
 date:   2017-03-09 16:13:54
 category: 技术
 tags:
