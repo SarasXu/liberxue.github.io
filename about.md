@@ -4,10 +4,6 @@ title: Saras的自我介绍
 description: "关于Saras博客角落自述"
 date:   2017-03-09 16:13:54
 category: 生活
-tags: 
-- Saras
-- 简述
-- 关于
 redirect_from:
   - /about/
 ---
