@@ -122,7 +122,7 @@
 </div> -->
 {% include foot.html %}
 
-<script src="/assets/js/social-share.min.js"></script>
+<script src="{{ site.url }}assets/js/social-share.min.js"></script>
 <script>
     socialShare('.social-share', {
         sites: [{% for i in site.social-share-items %}'{{ i }}'{% if forloop.last == false %},{% endif %}{% endfor %}],
