@@ -121,6 +121,16 @@
 	</div>
 </div> -->
 {% include foot.html %}
+
+<script src="/assets/js/social-share.min.js"></script>
+<script>
+    socialShare('.social-share', {
+        sites: [{% for i in site.social-share-items %}'{{ i }}'{% if forloop.last == false %},{% endif %}{% endfor %}],
+        wechatQrcodeTitle: "分享到微信朋友圈",
+        wechatQrcodeHelper: '<p>扫码后点击右上角</p><p>将本文分享至朋友圈</p>'
+    });
+</script>
+<script>
 <!--liberxueconnnet-menu-->
 <div id="directory-content" class="directory-content">
     <div id="directory"></div>
