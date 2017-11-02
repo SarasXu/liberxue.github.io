@@ -15,7 +15,6 @@
     <div class="navbar-container">
       <a href="{{ site.url }}" title="访问 {{  site.title }}" class="navbar-logo"> <img src="{{ site.url }}{{ site.logourl }}" alt="{{ site.title }}"> </a>
         <div class="navbar-menu">
-          <a href="{{ site.url }}" title="访问 {{  site.title }}" class="avatar"> <img src="{{ site.avatar }}" alt="{{ site.title }}"> </a>
            {% for link in site.links %}             
             <a href="{{ site.url }}{{ link.url }}"  title="访问 {{  link.name }}" data-hover="{{link.name}}">{{ link.name }}</a>
                 {% endfor %}
