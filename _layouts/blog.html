@@ -61,7 +61,6 @@
 		 <div class="post-data">  
 	 <time datetime="{{ page.date | date: '%F %H:%M:%S'}}" itemprop="datePublished">发布时间：{{ page.date | date: "%F %H:%M:%S"}}</time>
      <a href="{{ site.url }}tags#{{ page.category }}" title="访问 {{ page.category }}" data-hover="博客分类: {{ page.category }}">博客分类: {{ page.category }}</a>
-    <a href="#read"> 阅读次数: comments</a> 
 			</div>
             <div class="post-tags">
                 {% unless page.tags == empty %}
@@ -131,7 +130,7 @@
         <div class="avatar">
             <img src="{{ site.avatar }}" alt="">
         </div>
-        <div class="author-name" rel="author"><a href="mailto:{{ site.email }}">Email {{ site.author }}</a></div>
+        <div class="author-name" rel="author"><a style="color: #5f5f5f;" href="mailto:{{ site.email }}">Email {{ site.author }}</a></div>
     </section>
 </article>
 
