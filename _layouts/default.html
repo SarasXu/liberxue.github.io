@@ -18,7 +18,7 @@
            {% for link in site.links %}             
             <a href="{{ site.url }}{{ link.url }}"  title="访问 {{  link.name }}" data-hover="{{link.name}}">{{ link.name }}</a>
                 {% endfor %}
-            <a href="mailto:saras_xu@163.com" title="发送邮件">email</a>
+            <a href="mailto:{{ site.email }}" title="发送邮件">email</a>
           </div>
         <div class="navbar-search" onclick="">
             <span class="icon-search"></span>
@@ -34,7 +34,7 @@
                {% for link in site.links %}           
                 <li><a href="{{ site.url }}{{ link.url }}" title="访问 {{  link.name }}" data-hover="{{link.name}}">{{ link.name }}</a></li>
                  {% endfor %}
-                 <li><a href="mailto:saras_xu@163.com">email</a></li>
+                 <li><a href="mailto:{{ site.email }}">email</a></li>
             </ul>
         </div>
 

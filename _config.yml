@@ -4,14 +4,16 @@ description:      "这是风的季节"
 url:              "https://sarasxu.github.io/winds/" # 域名
 baseurl:          "/" # 域名
 signoff:          "Saras" # Your name
+author:           "Saras"
+avatar:           'https://avatars.githubusercontent.com/SarasXu'
 facebook_appid:   #facebook_id
 google_analytics: UA-101222464-1
 share:            true 
 # Share
 social-share:     true
 social-share-items: ['wechat', 'weibo', 'douban', 'twitter']
-
-logourl:   "/style/images/logo_saras_01.jpg"
+email:            saras_xu@163.com
+logourl:          "/style/images/logo_saras_01.jpg"
 # 分页
 paginate: 6
 paginate_path: "pageNum:num"
