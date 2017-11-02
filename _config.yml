@@ -7,6 +7,10 @@ signoff:          "Saras" # Your name
 facebook_appid:   #facebook_id
 google_analytics: UA-101222464-1
 share:            true 
+# Share
+social-share:     true
+social-share-items: ['wechat', 'weibo', 'douban', 'twitter']
+
 logourl:   "/style/images/logo_saras_01.jpg"
 # 分页
 paginate: 6
