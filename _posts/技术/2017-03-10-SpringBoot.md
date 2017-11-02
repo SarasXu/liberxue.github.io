@@ -21,13 +21,13 @@ Spring Boot是由Pivotal团队提供的全新框架，其设计目的是用来�
 
 使用idea构建一个叫first-boot的maven项目，如图：
 
-![Alt text](https://sarasxu.github.io/blog/img/SpringBoot/1.png)
+![Alt text](https://sarasxu.github.io/winds/images/blog/SpringBoot/1.png)
 
 >因为SpringBoot默认JDK1.8，所以这里选择使用1.8，可以更改JDK版本，但这里不作阐述
 
-![Alt text](https://sarasxu.github.io/blog/img/SpringBoot/2.png)
+![Alt text](https://sarasxu.github.io/winds/images/blog/SpringBoot/2.png)
 
-![Alt text](https://sarasxu.github.io/blog/img/SpringBoot/3.png)
+![Alt text](https://sarasxu.github.io/winds/images/blog/SpringBoot/3.png)
 
 maven项目构建完成
 
@@ -224,7 +224,7 @@ public class DataSourceConfig {
 
 这时候运行main方法，访问localhost:8080，如图：
 
-![Alt text](https://sarasxu.github.io/blog/img/SpringBoot/5.png)
+![Alt text](https://sarasxu.github.io/winds/images/blog/SpringBoot/5.png)
 
 一个简单的SpringBoot整合mybatis的项目搭建完成了
 
@@ -500,11 +500,11 @@ public class TestController {
 
 运行main方法在控制台可看见
 
-![Alt text](https://sarasxu.github.io/blog/img/SpringBoot/6.png)
+![Alt text](https://sarasxu.github.io/winds/images/blog/SpringBoot/6.png)
 
 访问localhost:9094
 
-![Alt text](https://sarasxu.github.io/blog/img/SpringBoot/7.png)
+![Alt text](https://sarasxu.github.io/winds/images/blog/SpringBoot/7.png)
 
 这样在开发环境配置多环境完成
 

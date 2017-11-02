@@ -43,7 +43,7 @@ tags:
 
 >配置文件存放路径如下图：
 
-![Alt text](https://sarasxu.github.io/blog//img/idea-mybatis-generator/1.png)
+![Alt text](https://sarasxu.github.io/winds/images/blog/idea-mybatis-generator/1.png)
 
 >generatorConfig.xml代码如下：
 
@@ -145,10 +145,10 @@ jdbc.password=123456
 >在Intellij IDEA添加一个“Run运行”选项，使用maven运行mybatis-generator-maven-plugin插件
 点击 菜单run中Edit Configurations，会出现
 
-![Alt text](https://sarasxu.github.io/blog//img/idea-mybatis-generator/2.png)
+![Alt text](https://sarasxu.github.io/winds/images/blog/idea-mybatis-generator/2.png)
 
-![Alt text](https://sarasxu.github.io/blog//img/idea-mybatis-generator/3.png)
+![Alt text](https://sarasxu.github.io/winds/images/blog/idea-mybatis-generator/3.png)
 
-![Alt text](https://sarasxu.github.io/blog//img/idea-mybatis-generator/4.png)
+![Alt text](https://sarasxu.github.io/winds/images/blog/idea-mybatis-generator/4.png)
 
-![Alt text](https://sarasxu.github.io/blog//img/idea-mybatis-generator/5.png)
+![Alt text](https://sarasxu.github.io/winds/images/blog/idea-mybatis-generator/5.png)

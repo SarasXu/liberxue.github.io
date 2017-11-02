@@ -19,14 +19,14 @@ tags:
 2.   其次，项目为一个多模块的项目，子模块的命名如果需要变量则将需要替换的地方命名为```__artifactId__ ```。
 3.   最后，在模板项目内管理好各个子模块的依赖和需要依赖的公共的JAR包以及需要的一些公共配置。
      如图，我自定义项目模板：
-      ​  	![Alt text](https://sarasxu.github.io/blog/img/maven-archetype/1.png)
+      ​  	![Alt text](https://sarasxu.github.io/winds/images/blog/maven-archetype/1.png)
 
 # 构建
 
 1. 在项目根目录执行命令：```mvn archetype:create-from-project```，成功之后根目录会生成target文件。
 2. 进入新生成`target/generated-sources/archetype`目录，如图。
 3. 找到`src/main/resource/META-INF/maven下的archetype-metadata.xml`，如图。
-   ![Alt text](https://sarasxu.github.io/blog/img/maven-archetype/2.png)
+   ![Alt text](https://sarasxu.github.io/winds/images/blog/maven-archetype/2.png)
 
 
 # 微调
