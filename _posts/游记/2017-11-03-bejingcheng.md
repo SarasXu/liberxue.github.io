@@ -3,7 +3,7 @@ layout: blog
 road: true
 title:  "我的游记不一样之三游北京城"
 background: yellow
-background-image: https://sarasxu.github.io/winds/images/icon/bejing.jpeg
+background-image: https://sarasxu.github.io/winds/images/icon/beijing.jpeg
 date:   2017-11-03 16:39:23
 category: 游记
 tags:
