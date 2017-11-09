@@ -36,7 +36,7 @@ links:
   - name:         游戏
     url:          /game
     external:     false
-  - name:         旅游
+  - name:         游记
     url:          /road
     external:     false
   - name:         归档
